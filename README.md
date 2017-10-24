@@ -4,8 +4,10 @@ This ``slicer-org`` branch of this repository store the static content served at
 
 # Synchronization
 
-Every 5 minutes, the branch [slicer-org](https://github.com/Slicer/slicer.org/tree/slicer-org) is automatically pulled into the live site. There is no need to
-connect to the server in order to make changes.
+Every 5 minutes, the branch [slicer-org](https://github.com/Slicer/slicer.org/tree/slicer-org) is automatically
+pulled into the live site. There is no need to connect to the server in order to make changes.
+
+Source of the synchronization script: https://gist.github.com/freephile/13d8a570144f6449509d9679f6f28b8a#file-var-www-slicer-org-bin-pull-github-sh
 
 # Local Development
 
